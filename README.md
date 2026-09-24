@@ -5,14 +5,14 @@ ThinkPHP 8 微信开发工具包，支持微信小程序、微信支付、公众
 ## 安装
 
 ```bash
-composer require ginger/think-wechat
+composer require 851732372/think-wechat
 ```
 
 ## 配置
 
 ```bash
 # 发布配置文件
-php think vendor:publish --package ginger/think-wechat
+php think vendor:publish --package 851732372/think-wechat
 ```
 
 ### 环境变量配置
